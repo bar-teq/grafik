@@ -2,3 +2,6 @@ __pycache__/
 grafik2.xlsx
 grafik.xlsx
 tester.py
+token.json
+credentials.json
+maindict.py
